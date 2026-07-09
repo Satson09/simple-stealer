@@ -1,8 +1,8 @@
 
 
 module.exports = {
-    DISCORD_WEBHOOK: "https://discord.com/api/webhooks/1471824345117622272/rcxYk4R19k3CEk6sQqoatoGJYuKsMP0l360tne7vKBu1a-4pF7S5hyjZG7eMV5B6wcex",
-    TELEGRAM_TOKEN: "8750367238:AAFw30QS0sximcqCML2JJCYz2QLadIHCy48",
+    DISCORD_WEBHOOK: "your discord webhook here",
+    TELEGRAM_TOKEN: "telegram bot token here",
     TELEGRAM_CHAT_ID: "5680426683",
 
 
