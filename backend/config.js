@@ -3,7 +3,7 @@
 module.exports = {
     DISCORD_WEBHOOK: "your discord webhook here",
     TELEGRAM_TOKEN: "telegram bot token here",
-    TELEGRAM_CHAT_ID: "5680426683",
+    TELEGRAM_CHAT_ID: "1234567890",
 
 
     WALLET_PATTERNS: {
